@@ -26,6 +26,8 @@ Tools used :
 
 ## Published Papers
 
-[1st Published Paper ](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ijprems.com/uploadedfiles/paper//issue_5_may_2023/31195/final/fin_ijprems1683641817.pdf&ved=2ahUKEwj6n8Glkff_AhUUbmwGHatECS0QFnoECBAQAQ&usg=AOvVaw12XKOrJMJ2bvhqD5EI36kb)
+[1st Published Paper ](https://www.irjmets.com/uploadedfiles/paper//issue_11_november_2022/31564/final/fin_irjmets1669195760.pdf)
 
-[2nd Published Paper ](https://www.irjmets.com/uploadedfiles/paper//issue_11_november_2022/31564/final/fin_irjmets1669195760.pdf)
+[2nd Published Paper ](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ijprems.com/uploadedfiles/paper//issue_5_may_2023/31195/final/fin_ijprems1683641817.pdf&ved=2ahUKEwj6n8Glkff_AhUUbmwGHatECS0QFnoECBAQAQ&usg=AOvVaw12XKOrJMJ2bvhqD5EI36kb)
+
+
